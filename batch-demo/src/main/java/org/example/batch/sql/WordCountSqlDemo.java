@@ -1,3 +1,4 @@
+/*
 package org.example.batch.sql;
 
 import org.apache.flink.api.common.functions.MapFunction;
@@ -66,3 +67,4 @@ public class WordCountSqlDemo {
     }
 
 }
+*/

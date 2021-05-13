@@ -1,9 +1,8 @@
 public class TestDemo {
 
     public static void main(String[] args) {
-        String str = "a$_b$_c";
-        String[] $_s = str.split("\\$_");
-        System.out.println($_s.length);
+        long t = 1612022400000L - 1612022400000L % (3600L * 1000L);
+        System.out.println(t);
     }
 
 }
